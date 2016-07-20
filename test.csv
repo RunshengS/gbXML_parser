@@ -1,0 +1,2 @@
+Unit,BuildingType,Longitude,Latitude,CityAndCountry,designHeatWeathIdRef,designCoolWeathIdRef,TotalWallArea,TotalWindowArea
+IP,SingleFamily,-77.074348,44.044640,"Prince Edward, ON Canada",Weather-47470,Weather-47470,935.7475035832,0
